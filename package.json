@@ -10,7 +10,7 @@
     "start": "wrangler dev"
   },
   "dependencies": {
-    "hono": "4.7.2",
+    "hono": "4.9.7",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-server-dom-webpack": "19.0.0",
