@@ -34,3 +34,5 @@ export class MyDurableObject extends DurableObject {
     return result[0]?.value || 0;
   }
 }
+
+export default {};
