@@ -17,7 +17,8 @@
     "bindings": [
       {
         "name": "MY_DURABLE_OBJECT",
-        "class_name": "MyDurableObject"
+        "class_name": "MyDurableObject",
+        "script_name": "waku-with-durable-objects-dev-durable-objects-worker"
       }
     ]
   },
